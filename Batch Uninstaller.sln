@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batch Uninstaller", "Batch Uninstaller.csproj", "{8880F3D1-8E38-4869-A6E4-E7978CA6AE56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8880F3D1-8E38-4869-A6E4-E7978CA6AE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8880F3D1-8E38-4869-A6E4-E7978CA6AE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8880F3D1-8E38-4869-A6E4-E7978CA6AE56}.Debug|x64.ActiveCfg = Debug|x64
+		{8880F3D1-8E38-4869-A6E4-E7978CA6AE56}.Debug|x64.Build.0 = Debug|x64
+		{8880F3D1-8E38-4869-A6E4-E7978CA6AE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8880F3D1-8E38-4869-A6E4-E7978CA6AE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8880F3D1-8E38-4869-A6E4-E7978CA6AE56}.Release|x64.ActiveCfg = Release|x64
+		{8880F3D1-8E38-4869-A6E4-E7978CA6AE56}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C78FECE-8FCC-43C3-8E0B-8228EF94B89F}
+	EndGlobalSection
+EndGlobal
