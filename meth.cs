@@ -46,7 +46,12 @@ namespace METH
                         {
                             continue;
                         }
-
+                        string a = "NoModify";
+                        var sa = productKey.GetValue(c);
+                        if (sa != null)
+                        {
+                            continue;
+                        }
                         string n = "Displayname";
                         String nm;
                         var sn = productKey.GetValue(n);
